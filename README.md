@@ -2,6 +2,7 @@
 This is an example of the Cohart Analysis test. For this, the W3Schools SQL code editor was used. 
 
 For this, the W3Schools test database was used. To access it click: https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all.
+
 The above link opens an editor linked to the W3Schools test database. Delete everything in **SQL Statement editor**.
 
 To view the analysis below copy and paste the code from the **code.sql** file in *SQL Statement editor*.
